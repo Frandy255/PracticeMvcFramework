@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>Inicio sesion</h1>
+    </div>
+    <div>
+        @using (Html.BeginForm("Login", "Account", new { FormMethod.Post }))
+            {
+                @Html.AntiForgeryToken()
+
+                @Html.ValidationSummary(true)
+                <div>
+                    @Html.LabelFor(m => m)
+                </div>
+            }
+    </div>
+</body>
+</html>
