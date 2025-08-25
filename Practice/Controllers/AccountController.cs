@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNet.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,8 +10,13 @@ namespace Practice.Controllers
     public class AccountController : Controller
     {
 
-        public ActionResult Login()
+        public ActionResult Login(string usser, string pass)
         {
+            var usuario = 
+            if ()
+            {
+
+            }
             return View();
         }
     }
