@@ -9,15 +9,10 @@ namespace Practice.Controllers
 {
     public class AccountController : Controller
     {
-
+        private ApplicationUserManager usA;
         public ActionResult Login(string usser, string pass)
         {
-            var usuario = 
-            if ()
-            {
-
-            }
-            return View();
+           return View();
         }
     }
 }
