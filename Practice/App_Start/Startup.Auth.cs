@@ -19,7 +19,7 @@ namespace Practice
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
-                LoginPath = new PathString("/AccountController/Login")
+                LoginPath = new PathString("/Account/Index")
             });
         }
 

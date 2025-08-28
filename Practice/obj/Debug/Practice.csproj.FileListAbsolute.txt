@@ -99,11 +99,9 @@ C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.Owi
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.Owin.Security.xml
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\AutoMapper.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.dll
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Castle.Core.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\AutoMapper.xml
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.xml
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Castle.Core.xml
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.SqlServer.dll
+C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.SqlServer.xml
