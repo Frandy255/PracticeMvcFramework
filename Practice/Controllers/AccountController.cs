@@ -21,7 +21,7 @@ namespace Practice.Controllers
 
         public AccountController(ApplicationUserManager userManager)
         {
-            UserManagers = userManager;
+            aum = userManager;
         }
 
         public ApplicationUserManager UserManagers

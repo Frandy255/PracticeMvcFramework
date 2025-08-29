@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\models\\identityusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\models\\identityusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|c:\\users\\eortiz\\documents\\github\\practicemvcframework\\practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|c:\\users\\eortiz\\documents\\github\\practicemvcframework\\practice\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|c:\\users\\eortiz\\documents\\github\\practicemvcframework\\practice\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|c:\\users\\eortiz\\documents\\github\\practicemvcframework\\practice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\practice\\models\\identityusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54755FFA-2D3E-4DEB-AFB7-1351B6BACA0E}|Practice\\Practice.csproj|solutionrelative:practice\\models\\identityusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Global.asax.cs",
               "RelativeDocumentMoniker": "Practice\\Global.asax.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Practice\\Global.asax.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T19:36:51.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T19:36:51.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Web.config",
               "RelativeDocumentMoniker": "Practice\\Web.config",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "IdentityUserModel.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Models\\IdentityUserModel.cs",
               "RelativeDocumentMoniker": "Practice\\Models\\IdentityUserModel.cs",
@@ -97,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IdentityConfig.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\App_Start\\IdentityConfig.cs",
               "RelativeDocumentMoniker": "Practice\\App_Start\\IdentityConfig.cs",
@@ -116,14 +115,14 @@
               "RelativeDocumentMoniker": "Practice\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Practice\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-26T16:08:03.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Views\\Web.config",
               "RelativeDocumentMoniker": "Practice\\Views\\Web.config",
@@ -131,25 +130,24 @@
               "RelativeToolTip": "Practice\\Views\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-26T15:37:23.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:37:23.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "AccountModel.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Models\\AccountModel.cs",
               "RelativeDocumentMoniker": "Practice\\Models\\AccountModel.cs",
               "ToolTip": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Models\\AccountModel.cs",
               "RelativeToolTip": "Practice\\Models\\AccountModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T18:03:19.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Practice\\App_Start\\RouteConfig.cs",
@@ -157,44 +155,43 @@
               "RelativeToolTip": "Practice\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T18:25:34.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T18:25:34.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Practice\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Practice\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwDUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADgvzYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T16:30:16.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Startup.cs",
               "RelativeDocumentMoniker": "Practice\\Startup.cs",
               "ToolTip": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\Startup.cs",
               "RelativeToolTip": "Practice\\Startup.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T16:04:41.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Startup.Auth.cs",
               "DocumentMoniker": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\App_Start\\Startup.Auth.cs",
               "RelativeDocumentMoniker": "Practice\\App_Start\\Startup.Auth.cs",
               "ToolTip": "C:\\Users\\eortiz\\Documents\\GitHub\\PracticeMvcFramework\\Practice\\App_Start\\Startup.Auth.cs",
               "RelativeToolTip": "Practice\\App_Start\\Startup.Auth.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T16:22:50.634Z",
               "EditorCaption": ""

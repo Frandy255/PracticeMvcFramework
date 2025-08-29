@@ -7,7 +7,7 @@ using System.Web;
 namespace Practice.Models
 {
   public class LoginModel
-    {
+    { 
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]
