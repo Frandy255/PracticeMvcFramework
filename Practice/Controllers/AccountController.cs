@@ -36,11 +36,16 @@ namespace Practice.Controllers
             }
         }
 
-        public ActionResult LoginInicial(string usser, string pass)
+        [HttpPost]
+        public ActionResult LoginInicial(LoginModel lgm)
         {
+            string usser = lgm.Email;
+            string pass = lgm.Password;
+
+            Console.WriteLine(usser);
             
             var user = UserManagers.Find(usser, pass);
-
+                
             if (user != null)
             {
                 return RedirectToAction(nameof(Index));

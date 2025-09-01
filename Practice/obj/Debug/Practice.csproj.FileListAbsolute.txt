@@ -1,5 +1,3 @@
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Practice.dll.config
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Practice.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Practice.pdb
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\roslyn\csc.exe
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\roslyn\csc.exe.config
@@ -82,7 +80,6 @@ C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\es\System.Web
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.csproj.Up2Date
-C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.pdb
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -105,3 +102,6 @@ C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramewo
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.SqlServer.dll
 C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\EntityFramework.SqlServer.xml
+C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Practice.dll.config
+C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\bin\Practice.dll
+C:\Users\eortiz\Documents\GitHub\PracticeMvcFramework\Practice\obj\Debug\Practice.dll
