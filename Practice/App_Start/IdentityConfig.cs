@@ -19,9 +19,9 @@ namespace Practice.App_Start
     /// </summary>
     public class ApplicationUser : IdentityUser
     {
-        public string Name { get; set; }
-        public string LastNames { get; set; }
-        public byte[] Icon { get; set; }
+        //public string Name { get; set; }
+        //public string LastNames { get; set; }
+        //public byte[] Icon { get; set; }
 
         /// <summary>
         /// Metodo que crea una identidad para el usuario logueado, esto para que se almacenen los datos en las cookies que seran usadas

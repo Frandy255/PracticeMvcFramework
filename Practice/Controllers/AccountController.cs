@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Practice.App_Start;
 using Practice.Models;
@@ -42,15 +43,16 @@ namespace Practice.Controllers
             string usser = lgm.Email;
             string pass = lgm.Password;
 
-            Console.WriteLine(usser);
-            
-            var user = UserManagers.Find(usser, pass);
+            var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+            // Obtiene todos los usuarios
+            var usuarios = userManager.Users.ToList();
+
+            var user = UserManagers.Find("testuser", "MiClaveDePrueba123!");
                 
             if (user != null)
             {
                 return RedirectToAction(nameof(Index));
             }
-
             return RedirectToAction(nameof(Login));
         }
 
@@ -60,7 +62,7 @@ namespace Practice.Controllers
         }
 
 
-        public ActionResult Login(string usser, string pass)
+        public ActionResult Login()
         {
             //var user = UserManagers.Find(usser, pass);
 
@@ -73,6 +75,8 @@ namespace Practice.Controllers
             //string hash = hasher.HashPassword("Prueba123");
             //Console.WriteLine(hash);
             //ViewBag.message = hash;
+            ViewBag.Message = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+
             return View();
 
         }
