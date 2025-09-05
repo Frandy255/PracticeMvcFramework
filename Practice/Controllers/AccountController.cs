@@ -6,6 +6,7 @@ using Practice.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
@@ -47,7 +48,7 @@ namespace Practice.Controllers
             // Obtiene todos los usuarios
             var usuarios = userManager.Users.ToList();
 
-            var user = UserManagers.Find("testuser", "MiClaveDePrueba123!");
+            var user = UserManagers.Find("testusDer", "MiClaveDePrueba123!");
                 
             if (user != null)
             {
@@ -80,5 +81,18 @@ namespace Practice.Controllers
             return View();
 
         }
+
+        public ActionResult Users()
+        {
+            return View("/Views/");
+        }
+
+        //public async ActionResult (UserManager<ApplicationUser> us)
+        //{
+        //    if (User.IsInRole("Admin"))
+        //    {
+
+        //    }
+        //}
     }
 }
